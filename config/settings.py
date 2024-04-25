@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'rest_framework',
 
     'task.apps.TaskConfig',
+    'frontend.apps.FrontendConfig',
 ]
 
 MIDDLEWARE = [
